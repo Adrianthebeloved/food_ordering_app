@@ -87,6 +87,6 @@ count = int(input(f'How many packs do you want?\n(15% off(on each item)\n for 3 
 print('...............')
 
 # result = selected_menu.price*count
-print(f'You have bought {count} packs of {selected_fruit_menu.name}, {selected_food.name} and {selected_drink.name}')
+print(f'You have bought {count} packs of {selected_fruit_menu.name}, {selected_food.name} and {selected_drink.name} combo.')
 result = selected_fruit_menu.total_price(count) + selected_food.total_price(count) + selected_drink.total_price(count)
 print(f'Your total bill is: ${result}\nThanks for shopping with us...')
