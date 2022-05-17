@@ -1,1 +1,1 @@
-Practing Python classes,Instances and Methods by creating a food ordering app
+Python Practice- Food ordering app. (Classes, Instances, Methods (__init__), Instantiation, modules)
