@@ -9,4 +9,3 @@ class Drink(Fruitmenu):
         
     def info(self):
         return self.name +': $' + str(self.price) + ' (' + str(self.volume) + 'mL)'
-        
