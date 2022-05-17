@@ -1,1 +1,1 @@
-Python Practice- Food ordering app. (Classes, Instances, Methods (__init__), Instantiation, modules)
+Python Practice- Food ordering app. (Classes, Instances, Methods (__init__), Instantiation,Inheritance, modules)
