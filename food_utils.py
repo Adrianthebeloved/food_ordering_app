@@ -12,4 +12,4 @@ class Food(Fruitmenu):
 
     def calories(self):
         print('kcal:' + str(self.calories))
-        
+
