@@ -1,5 +1,5 @@
 #The Fruit Ordering App
-#Here we will create a fruit ordering app implementing functions, modules, conditional loops, list, arguments, parameters, return values, classes, instances, methods, __init__ method and more
+#Here we will create a fruit ordering app implementing functions, modules, conditional loops, lists, arguments, parameters, return values, classes, instances, methods, __init__ method and more
 from fruit_utils import Fruitmenu
 from food_utils import Food
 from drink_utils import Drink
