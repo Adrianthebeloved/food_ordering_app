@@ -12,19 +12,8 @@ fruit1 = Fruitmenu('Apple',3)
 #by creating a list containing each fruit, we can intirate through the list to print(fruit1.info()) for each fruit thereby making the code above redundant
 
 fruit2 = Fruitmenu('Orange',4)
-# fruit2.name = 'Orange'
-# fruit2.price = 4
-# print(fruit2.info())
-
 fruit3 = Fruitmenu('Avocado',5)
-# fruit3.name = 'Avocado'
-# fruit3.price = 5
-# print(fruit3.info())
-
 fruit4 = Fruitmenu('Watermelon',6)
-# fruit4.name = 'Watermelon'
-# fruit4.price = 6
-# print(fruit4.info())
 
 fruits = [fruit1,fruit2,fruit3,fruit4]
 index = 0
